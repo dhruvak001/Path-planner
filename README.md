@@ -17,7 +17,7 @@ Print the path and total fare for the journey.</br>
 # **Note:**
 Replace the file paths in the example usage with actual file paths containing metro stop information.</br>
 Ensure that the file format matches the expected format for populating metro lines.</br>
-Customize fare calculation logic in the calculate_fare_between_stops method as needed.</br>
+Customize fare calculation logic in the calculate_fare_between_stops method as needed.
 
 # Code Overview (if you need any particular function):
 
