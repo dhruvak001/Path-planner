@@ -1,6 +1,6 @@
 # Path planner
 
-***Samples file is the Dataset** </br>
+**Samples file is the Dataset** </br>
 
 The Metro Route Planner is a Python program designed to help users find the shortest path between two metro stations in a fictional metro network. It utilizes various classes such as MetroStop, MetroLine, AVLNode, AVLTree, Trip, Exploration, Path, and PathFinder to represent metro stops, metro lines, AVL trees for efficient searching, trip exploration, and pathfinding algorithms.
 
@@ -15,9 +15,9 @@ The Metro Route Planner is a Python program designed to help users find the shor
 - Print the path and total fare for the journey.</br>
 
 # **Note:**
-Replace the file paths in the example usage with actual file paths containing metro stop information.</br>
-Ensure that the file format matches the expected format for populating metro lines.</br>
-Customize fare calculation logic in the calculate_fare_between_stops method as needed.
+- Replace the file paths in the example usage with actual file paths containing metro stop information.</br>
+- Ensure that the file format matches the expected format for populating metro lines.</br>
+- Customize fare calculation logic in the calculate_fare_between_stops method as needed.
 
 # Code Overview (if you need any particular function):
 
