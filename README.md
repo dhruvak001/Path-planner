@@ -6,13 +6,13 @@ The Metro Route Planner is a Python program designed to help users find the shor
 
 
 # **Usage:**
-Create instances of MetroLine for each metro line and populate them with stop information from respective files.</br>
-Create an instance of AVLTree and populate it with all metro lines.</br>
-Create an instance of PathFinder with the AVL tree and a list of metro lines.</br>
-Define origin and destination station names as strings.</br>
-Search for the corresponding MetroStop objects using the AVL tree.</br>
-If both origin and destination stations are found, use the PathFinder to find the shortest path between them.</br>
-Print the path and total fare for the journey.</br>
+- Create instances of MetroLine for each metro line and populate them with stop information from respective files.</br>
+- Create an instance of AVLTree and populate it with all metro lines.</br>
+- Create an instance of PathFinder with the AVL tree and a list of metro lines.</br>
+- Define origin and destination station names as strings.</br>
+- Search for the corresponding MetroStop objects using the AVL tree.</br>
+- If both origin and destination stations are found, use the PathFinder to find the shortest path between them.</br>
+- Print the path and total fare for the journey.</br>
 
 # **Note:**
 Replace the file paths in the example usage with actual file paths containing metro stop information.</br>
