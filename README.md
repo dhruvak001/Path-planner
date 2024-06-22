@@ -21,11 +21,11 @@ The Metro Route Planner is a Python program designed to help users find the shor
 
 # Code Overview (if you need any particular function):
 
-MetroStop: Represents a metro station with attributes such as name, metro line, fare, and methods to retrieve station information.</br>
-MetroLine: Represents a metro line with methods to add stops, print line details, and populate line information from a file.</br>
-AVLNode: Represents a node in an AVL tree used for efficient searching of metro stops.</br>
-AVLTree: Represents an AVL tree data structure used for efficient searching and insertion of metro stops.</br>
-Trip: Represents a trip between metro stops.</br>
-Exploration: Represents exploration of metro stops during pathfinding.</br>
-Path: Represents a path consisting of metro stops and calculates total fare for the path.</br>
-PathFinder: Implements algorithms to find the shortest path between two metro stops.
+- MetroStop: Represents a metro station with attributes such as name, metro line, fare, and methods to retrieve station information.</br>
+- MetroLine: Represents a metro line with methods to add stops, print line details, and populate line information from a file.</br>
+- AVLNode: Represents a node in an AVL tree used for efficient searching of metro stops.</br>
+- AVLTree: Represents an AVL tree data structure used for efficient searching and insertion of metro stops.</br>
+- Trip: Represents a trip between metro stops.</br>
+- Exploration: Represents exploration of metro stops during pathfinding.</br>
+- Path: Represents a path consisting of metro stops and calculates total fare for the path.</br>
+- PathFinder: Implements algorithms to find the shortest path between two metro stops.
